@@ -1,4 +1,4 @@
-//Linear searvh program in the form of c++ code
+//Linear search program in the form of c++ code
 
 #include<bits/stdc++.h>
 using namespace std;
